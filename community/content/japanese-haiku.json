@@ -134,4 +134,24 @@
   "kigo": "Deep autumn (aki fukaki)",
   "notes": "Evokes solitude and curiosity."
 }
+  ,
+{
+  "japanese": "春の海\nひねもすのたり\nのたりかな",
+  "romaji": "Haru no umi / hinemosu notari / notari kana",
+  "english": "The spring sea stretches lazily all day, rising and falling.",
+  "poet": "Yosa Buson",
+  "season": "Spring",
+  "kigo": "Spring sea (haru no umi)",
+  "notes": "Known for musical phrasing and calm motion."
+}
+  ,
+{
+  "japanese": "閑さや\n岩にしみ入る\n蝉の声",
+  "romaji": "Shizukasa ya / iwa ni shimiiru / semi no koe",
+  "english": "Such stillness — the cries of the cicadas sink into the rocks.",
+  "poet": "Matsuo Basho",
+  "season": "Summer",
+  "kigo": "Cicada (semi)",
+  "notes": "Written at Yamadera temple; one of Basho's most celebrated haiku, evoking profound silence pierced by sound."
+}
 ]
